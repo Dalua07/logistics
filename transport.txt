@@ -2,3 +2,4 @@ Cargo delivery schedule
 Tuesday 3pm at "Rua General Camisao 242, SP/SP-Brazil"
 Truck driver should delivery cargo to Filipe Sampaio only.
 Cargo can also be delivered to Mss Fernanda, at the same address.
+Cargo should be delivered to any person at the direction informed above.
